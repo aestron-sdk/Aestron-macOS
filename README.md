@@ -2,4 +2,4 @@
 
 ## Install
 
-pod 'AestronRTC-Mac'
+pod 'AestronRTC-macOS'
